@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplikasi_Sion_BangunRuang</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_luas__lingkaran_">Luas_Lingkaran_Activity</string>
+    <string name="title_activity_activity_volume_tabung">Activity_volume_tabung</string>
+    <string name="title_activity_activity_volume_balok">Activity_volume_balok</string>
+    <string name="title_activity_activity_volume_kubus">Activity_volume_kubus</string>
+
+</resources>
